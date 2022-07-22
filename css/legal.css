@@ -1,0 +1,58 @@
+@font-face {
+  font-family:opensansbold ;
+  src: url(../Open_Sans/static/OpenSans/OpenSans-Bold.ttf);
+}
+@font-face {
+  font-family: opensansregular;
+  src: url(../Open_Sans/static/OpenSans/OpenSans-Regular.ttf);
+}
+@font-face {
+  font-family: opensans2;
+  src: url(../Open_Sans/OpenSans-VariableFont_wdth\,wght.ttf);
+}
+@font-face {
+  font-family: opensansmedium;
+  src: url(../Open_Sans/static/OpenSans/OpenSans-Medium.ttf);
+}
+  @font-face {
+    font-family:roboto-regular ;
+    src: url(../Roboto/Roboto-Regular.ttf);
+}
+@font-face {
+    font-family:roboto-bold;
+    src: url(../Roboto/Roboto-Bold.ttf);
+}
+.title{
+    font-size: 30px;
+    font-weight: 500; 
+}
+.body1{
+  padding-left: 22%;
+  padding-right: 20%;
+  padding-top: 5%;
+}
+a{
+  text-decoration: none !important;
+  color: #5B9846 !important;
+}
+hr{
+  color: #666666;
+}
+.terms{
+  font-size: 16px;
+  font-weight: 700;
+  font-family: opensansmedium, Arial, Helvetica, sans-serif;
+  color: #666666;
+}
+.condition{
+  color: #5B9846;
+  font-size: 16px;
+  font-weight: 700;
+  font-family: opensansmedium, Arial, Helvetica, sans-serif;
+}
+.privacy{
+  color: #666666;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: opensansmedium, Arial, Helvetica, sans-serif;
+}
